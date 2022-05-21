@@ -5,8 +5,8 @@ Repository ini dibuat untuk memenuhi persyaratan Tugas Akhir Praktikum Pemodelan
 - Juan Javier 26050120140095 B
 - Irene Indah Yuni Simanungkalit 26050120140115 B
 - Athanasius Dhento Wilasma
-- Deno Ferdian 26050120130086 A	
-- Shumanty Nathio Simanjuntak 26050120130080 A
+- Deno Ferdian	
+- Shumanty Nathio Simanjuntak
 - Kalika Padmarani 26050120140043 B
 # Cara Penggunaan Script Python
 1. Pengguna dapat membuka folder yang berisi kumpulan script python yang dapat dijalankan pada Jupyter Notebook, Visual Studio Code dan Google Colaboratory dalam repository ini. 
@@ -49,21 +49,10 @@ Repository ini dibuat untuk memenuhi persyaratan Tugas Akhir Praktikum Pemodelan
 
 # Modul Hidrodinamika 1 Dimensi
 - Pengertian dan Persamaan Pembangun
+- Persamaan difusi adalah persamaan diferensial parsial yang menggambarkan dinamika kepadatan bahan menjalani difusi. 
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/105969814/169646743-81111d80-40e2-4b6f-b25d-4cb01ca3bafd.png">
 * Hidrodinamika merupakan salah satu cabang ilmu pengetahuan yang mempelajari gerak liquid atau gerak fluida cair khususnya gerak air, kondisi hidrodinamika merupakan salah satu aspek yang sangat berpengaruh terhadap proses - proses yang terjadi di pantai terutama gelombang dan arus bergantung pada bentuk dan karakteristik pantai. Hidrodinamika merupakan sebuah konsep sistem model numerik secara umum untuk memodelkan suatu simulasi baik simulasi muka air, aliran di estuari, teluk dan pantai. 
-* Sedangkan Hidrodinamika 1D merupakan model untuk mensimulasikan pola gerak dari air laut secara global dengan satu variabel (x saja atau y saja)
-
-Pemodelan Hidrodinamika 1 Dimensi :
-- Model Hidrodinamika 1D lebih cocok diterapkan pada gradien (kemiringan lereng) rendah atau cenderung landai
-- Memiliki model elevasi muka air yang seragam di seluruh penampang dan tidak dipengaruhi oleh kedalaman
-- Daerah yang direpserentasikan diambil tegak lurus terhadap aliran dan mewakili 1 sumbu (x atau y)
-
-Persamaan utama:
-- Persamaan Momentum
-
-
-- Persamaan Kontinuitas 
-
-
+* Sedangkan Hidrodinamika 1D merupakan
 # Modul Hidrodinamika 2 Dimensi
 - Pengertian dan Persamaan Pembangun
 * Hidrodinamika 2D merupakan
