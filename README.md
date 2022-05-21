@@ -49,6 +49,9 @@ Repository ini dibuat untuk memenuhi persyaratan Tugas Akhir Praktikum Pemodelan
 
 # Modul Hidrodinamika 1 Dimensi
 - Pengertian dan Persamaan Pembangun
+* Persamaan difusi adalah persamaan diferensial parsial yang menggambarkan dinamika kepadatan bahan menjalani difusi.
+* <img width="178" alt="image" src="https://user-images.githubusercontent.com/105969814/169646818-c4f9add5-e31a-4ab1-b656-aed812a36647.png">
+
 * Hidrodinamika merupakan salah satu cabang ilmu pengetahuan yang mempelajari gerak liquid atau gerak fluida cair khususnya gerak air, kondisi hidrodinamika merupakan salah satu aspek yang sangat berpengaruh terhadap proses - proses yang terjadi di pantai terutama gelombang dan arus bergantung pada bentuk dan karakteristik pantai. Hidrodinamika merupakan sebuah konsep sistem model numerik secara umum untuk memodelkan suatu simulasi baik simulasi muka air, aliran di estuari, teluk dan pantai. 
 * Sedangkan Hidrodinamika 1D merupakan model untuk mensimulasikan pola gerak dari air laut secara global dengan satu variabel (x saja atau y saja)
 
