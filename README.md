@@ -3,7 +3,7 @@ Repository ini dibuat untuk memenuhi persyaratan Tugas Akhir Praktikum Pemodelan
 # AUTHORS (Team 19)
 - Fadhil Nur Rizqi 26050120140116 B
 - Juan Javier 26050120140095 B
-- Irene Indah Yuni Simanungkalit 26050120140115 B
+- Irene Indah Yuni Simanungkalit 2605012014011 B
 - Athanasius Dhento Wilasma
 - Deno Ferdian	
 - Shumanty Nathio Simanjuntak
